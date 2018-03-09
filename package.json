@@ -1,0 +1,20 @@
+{
+  "name": "oc-react-svg-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "compression": "^1.7.2",
+    "express": "^4.16.2",
+    "foreman": "^2.0.0",
+    "json2csv": "^4.0.1",
+    "lighthouse": "^2.9.1",
+    "oc": "^0.X.X"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nf start -p 3000"
+  },
+  "author": "",
+  "license": "MIT"
+}
